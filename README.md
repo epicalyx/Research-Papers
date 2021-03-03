@@ -10,4 +10,4 @@ I have split them up into different folders based on the approach they use:
 ### Reading List
 | Paper | Tags | Status |
 | --- | --- | --- |
-| []() | Mental Well Being | Done |
+| []() | | |
