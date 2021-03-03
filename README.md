@@ -8,9 +8,9 @@ I have split them up into different folders based on the approach they use:
 - [Mixed Methods](https://github.com/epicalyx/Research-Papers/tree/master/Mixed%20Methods)
 
 ### Reading List
-| Paper | Tags | Status* |
-| --- | --- | --- |
-| []() | | |
+| Paper | Tags | Status* | Reflection |
+| --- | --- | --- | --- |
+| []() | | | |
 
 ```
 *Status:
