@@ -11,7 +11,3 @@ I have split them up into different folders based on the approach they use:
 | Paper | Tags | Status |
 | --- | --- | --- |
 | []() | Mental Well Being | Done |
-
-
-Just in case you are looking for a way to manage your reading list properly, do check [this](https://github.com/wuningxi/Talks/blob/main/2020_How_to_be_organised_and_productive_during_your_PhD.pdf) out. It is absolutely amazing! 
-
